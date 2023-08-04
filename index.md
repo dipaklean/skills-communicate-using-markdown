@@ -9,3 +9,6 @@
 $ git init
 Initialized empty Git repository
 ```
+- [ ] Complete GitHub introduction courses
+- [ ] Learn to use GitHub
+- [ ] Introduce myself to the world
